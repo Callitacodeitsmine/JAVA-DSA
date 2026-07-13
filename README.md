@@ -1,5 +1,6 @@
 ﻿# JAVA-DSA
 
+- git init
 - git pull origin main
 - git remote add origin https://github.com/Callitacodeitsmine/JAVA-DSA.git
 - git add .
